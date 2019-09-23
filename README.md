@@ -12,7 +12,7 @@
         <p>Core</p>
         <br>
         <p>Founder and developer</p>
-      </td>fsdfsdf
+      </td>
       <td align="center" valign="top">
         <img width="150" height="150" src="https://github.com/jhnns.png?s=150">
         <br>

@@ -7,9 +7,9 @@
     <tr>
       <td align="center" valign="top">
         <img width="150" height="150" src="https://avatars2.githubusercontent.com/u/32799856?s=460&v=4">
-        <br>dsfsdfdsfsd
+        <br>
         <a href="https://github.com/NehuenV">Nehuen Vergez</a>
-        <p>Core</p>dfs
+        <p>Core</p>
         <br>
         <p>Founder and developer</p>
       </td>fsdfsdf
